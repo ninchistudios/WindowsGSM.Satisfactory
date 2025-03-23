@@ -1,8 +1,6 @@
 # WindowsGSM.Satisfactory
 WindowsGSM plugin that provides Satisfactory Dedicated server support!
 
-- [简体中文](README-zh.md)
-
 # Requirements
 WindowsGSM >= 1.21.0
 
