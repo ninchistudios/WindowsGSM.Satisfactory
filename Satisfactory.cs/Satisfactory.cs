@@ -17,10 +17,10 @@ namespace WindowsGSM.Plugins
         public Plugin Plugin = new Plugin
         {
             name = "WindowsGSM.Satisfactory", // WindowsGSM.XXXX
-            author = "werewolf2150 and caindrac",
-            description = "WindowsGSM plugin for supporting Satisfactory Dedicated Server Early Access",
-            version = "1.4",
-            url = "https://github.com/werewolf2150/WindowsGSM.Satisfactory", // Github repository link (Best practice)
+            author = "ninchistudios via werewolf2150 and caindrac",
+            description = "WindowsGSM plugin for Satisfactory Dedicated Server Release",
+            version = "1.0",
+            url = "https://github.com/ninchistudios/WindowsGSM.Satisfactory", // Github repository link (Best practice)
             color = "#34c9eb" // Color Hex
         };
 
